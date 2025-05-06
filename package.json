@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.2.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-tags": "^1.2.2",
+    "typescript": "^5.8.3"
+  }
+}
